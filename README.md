@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial intelligence domain
 - 🌱 I’m currently learning Generative ai
 - 💞️ I’m looking to collaborate on gen ai projects 
-- 📫 How to reach me to push my boundaries in this inredible field
+- 📫 How to reach me to push my boundaries in this incredible field
 
 
 <!---
