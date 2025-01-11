@@ -38,9 +38,9 @@ Here are some of the projects I've worked on or am currently working on:
 
 I'm always open to discussing AI, collaborating on projects, or just having a chat about the latest advancements in Generative AI. Feel free to reach out to me:
 
-- **Email**: [echchaia.hiba@gmail.com] 
+[![Email](https://img.shields.io/badge/Email-echchaia.hiba@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:echchaia.hiba@gmail.com)
 
--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-echchaia-341778281/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-echchaia-341778281/)
 
 ---
 
