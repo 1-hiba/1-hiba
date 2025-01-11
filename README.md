@@ -1,5 +1,6 @@
 # Hi, I'm Hiba 👋
 
+[![AI Engineer](https://img.shields.io/badge/-AI%20Engineer-01D277?style=for-the-badge&logo=ai&logoColor=white)](https://www.linkedin.com/in/HIBA ECHCHAIA/)
 Welcome to my GitHub profile! I'm passionate about the **Artificial Intelligence** domain, with a particular focus on **Generative AI**. I'm constantly learning, exploring, and pushing the boundaries of what's possible in this incredible field.
 
 ---
