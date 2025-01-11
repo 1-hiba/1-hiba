@@ -42,7 +42,7 @@ I'm always open to discussing AI, collaborating on projects, or just having a ch
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-echchaia-341778281/)
 
-[![Téléphone](https://img.shields.io/badge/Téléphone-06%20XX%20XX%20XX%20XX-01D277?style=for-the-badge&logo=telegram&logoColor=white)](tel:+212762798897)
+[![Téléphone](https://img.shields.io/badge/Téléphone-06%2027%2098%2089%2097-01D277?style=for-the-badge&logo=telegram&logoColor=white)](tel:+212762798897)
 
 ---
 
